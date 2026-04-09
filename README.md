@@ -23,7 +23,7 @@ Built with Python 🐍 using `genanki` + `gTTS`.
 ## 📊 Deck Overview
 
 * 📁 Subdecks: **22**
-* 🧠 Total cards: **1757**
+* 🧠 Total cards: **2517**
 * 🔊 Audio included for:
 
   * phrases
