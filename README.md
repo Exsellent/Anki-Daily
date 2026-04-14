@@ -149,12 +149,13 @@ The goal is to help you **think in English**, not just translate:
 
  ## ⚙️ При желании попробовать необходимо скачивать только колоды 
 
-Daily_Phrases.apkg
-Daily_Phrases_small_talk.apkg
-Далее импортируете в программы Anki Desk или мобильные версии программы Anki
-Аудио скачивать не нужно.
+- Daily_Phrases.apkg
+- Daily_Phrases_small_talk.apkg
+- Далее импортируете в программы Anki Desk или мобильные версии программы Anki
+- Аудио скачивать не нужно.
 ---
 
-*если понравится идея поставь звезду ⭐ Star on GitHub*
+
+*если нравится идея поставь звезду ⭐ Star on GitHub*
 
 *if you like the idea, put a star ⭐ Star on GitHub*
