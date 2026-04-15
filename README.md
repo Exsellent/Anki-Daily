@@ -44,7 +44,7 @@ Daily_Phrases
 ├── Work adverbs 💬
 ├── communication 💬
 ├── daily_habits_productivity ⚙️
-├── dependent prepositions
+├── dependent prepositions 🎯
 ├── evening_routine 🌙
 ├── feeling_words 🧠
 ├── future_forms ⏳
@@ -126,8 +126,8 @@ All phrases are provided in a **structured format**:
 
 * Python 🐍
 * genanki
-* gTTS
-* JSON datasets
+* gTTS 💉
+* JSON datasets 📊
 
 ---
 
@@ -156,6 +156,6 @@ The goal is to help you **think in English**, not just translate:
 ---
 
 
-*если нравится идея поставь звезду ⭐ Star on GitHub*
+- *если нравится идея поставь звезду ⭐ Star on GitHub*
 
-*if you like the idea, put a star ⭐ Star on GitHub*
+- *if you like the idea, put a star ⭐ Star on GitHub*
