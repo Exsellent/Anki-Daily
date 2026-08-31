@@ -10,8 +10,8 @@ Built with Python 🐍 using `genanki` + `gTTS`.
 
 
 ### 📚  1. Основная колода — `Daily_Phrases.apkg`
--  🧩 **26 тематических субдека**
-- Более 3800 карточек
+-  🧩 **27 тематических субдека**
+- Более 3900 карточек
 - Фразы + переводы + примеры употребления
 - Аудио для каждой фразы и примеров 
 
@@ -28,12 +28,12 @@ Built with Python 🐍 using `genanki` + `gTTS`.
 
 ## 📊 Deck Overview
 
-* 📁 Subdecks: **26**
-* 🧠 Total cards: **3808**
+* 📁 Subdecks: **27**
+* 🧠 Total cards: **3918**
 * 🔊 Audio included for:
 
   * phrases
-  * examples (when present)
+  * examples (when present)![img.png](img.png)
 
 ---
 
@@ -61,6 +61,7 @@ Daily_Phrases
 ├── phrasal_verbs ⚡
 ├── presence_lack_addition_reduction 📉
 ├── preservation_position 🧍
+├── question_patterns ❔ ⚓
 ├── shopping 🛍️
 ├── shopping 💬 🍕
 ├── travel 🌍
@@ -75,9 +76,9 @@ Daily_Phrases
 
 | Колода                       | Субдеков | Карточек | Аудио         | Особенности                    |
 |------------------------------|----------|----------|---------------|--------------------------------|
-| **Daily_Phrases**            | 26       | ~3808    | да            | Чанки + примеры                |
+| **Daily_Phrases**            | 27       | ~3918    | да            | Чанки + примеры                |
 | **Daily_Phrases_small_talk** | 1        | 500      | да (2 голоса) | Диалоги с чередованием голосов |
-| **Итого**                    | 27       | ~4308    | —             | —                              |
+| **Итого**                    | 28       | ~4418    | —             | —                              |
 
 ---
 
