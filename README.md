@@ -10,8 +10,8 @@ Built with Python 🐍 using `genanki` + `gTTS`.
 
 
 ### 📚  1. Основная колода — `Daily_Phrases.apkg`
--  🧩 **25 тематических субдека**
-- Более 3700 карточек
+-  🧩 **26 тематических субдека**
+- Более 3800 карточек
 - Фразы + переводы + примеры употребления
 - Аудио для каждой фразы и примеров 
 
@@ -28,8 +28,8 @@ Built with Python 🐍 using `genanki` + `gTTS`.
 
 ## 📊 Deck Overview
 
-* 📁 Subdecks: **25**
-* 🧠 Total cards: **3707**
+* 📁 Subdecks: **26**
+* 🧠 Total cards: **3808**
 * 🔊 Audio included for:
 
   * phrases
@@ -41,7 +41,7 @@ Built with Python 🐍 using `genanki` + `gTTS`.
 
 ```
 Daily_Phrases
-├── Work adverbs 💬
+├── adverbs 💬
 ├── communication 💬
 ├── daily_habits_productivity ⚙️
 ├── dependent_adjectives 🧠
@@ -51,7 +51,7 @@ Daily_Phrases
 ├── future_forms ⏳
 ├── greetings 😊
 ├── happiness 😊
-├── Answers to How are you? 🙂
+├── how are you? 🙂
 ├── IT & Engineering 💻
 ├── morning_routine 🌅
 ├── motivation_self_improvement 🔥
@@ -62,8 +62,9 @@ Daily_Phrases
 ├── presence_lack_addition_reduction 📉
 ├── preservation_position 🧍
 ├── shopping 🛍️
+├── shopping 💬 🍕
 ├── travel 🌍
-├── Verbs of Perception & Work 🧠
+├── verbs of Perception & Work 🧠
 ├── work_phrases 💼
 ├── verbs + gerund 🎯
 |
@@ -74,9 +75,9 @@ Daily_Phrases
 
 | Колода                       | Субдеков | Карточек | Аудио         | Особенности                    |
 |------------------------------|----------|----------|---------------|--------------------------------|
-| **Daily_Phrases**            | 25       | ~3707    | да            | Чанки + примеры                |
+| **Daily_Phrases**            | 26       | ~3808    | да            | Чанки + примеры                |
 | **Daily_Phrases_small_talk** | 1        | 500      | да (2 голоса) | Диалоги с чередованием голосов |
-| **Итого**                    | 26       | ~4165    | —             | —                              |
+| **Итого**                    | 27       | ~4308    | —             | —                              |
 
 ---
 
