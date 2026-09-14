@@ -11,7 +11,7 @@ Built with Python 🐍 using `genanki` + `gTTS`.
 
 ### 📚  1. Основная колода — `Daily_Phrases.apkg`
 -  🧩 **27 тематических субдека**
-- Более 3900 карточек
+- Более 4000 карточек
 - Фразы + переводы + примеры употребления
 - Аудио для каждой фразы и примеров 
 
@@ -29,11 +29,11 @@ Built with Python 🐍 using `genanki` + `gTTS`.
 ## 📊 Deck Overview
 
 * 📁 Subdecks: **27**
-* 🧠 Total cards: **3951**
+* 🧠 Total cards: **4030**
 * 🔊 Audio included for:
 
   * phrases
-  * examples (when present)![img.png](img.png)
+  * examples (when present)
 
 ---
 
@@ -76,9 +76,9 @@ Daily_Phrases
 
 | Колода                       | Субдеков | Карточек | Аудио         | Особенности                    |
 |------------------------------|----------|----------|---------------|--------------------------------|
-| **Daily_Phrases**            | 27       | ~3951    | да            | Чанки + примеры                |
+| **Daily_Phrases**            | 27       | ~4030    | да            | Чанки + примеры                |
 | **Daily_Phrases_small_talk** | 1        | 500      | да (2 голоса) | Диалоги с чередованием голосов |
-| **Итого**                    | 28       | ~4451    | —             | —                              |
+| **Итого**                    | 28       | ~4530    | —             | —                              |
 
 ---
 
@@ -162,4 +162,4 @@ The goal is to help you **think in English**, not just translate:
 
 - *если нравится идея поставь звезду ⭐ Star on GitHub*
 
-- *if you like the idea, put a star ⭐ Star on GitHub*
+- *If you like the idea, give it a star ⭐ on GitHub*
